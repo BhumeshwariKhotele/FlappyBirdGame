@@ -7,6 +7,7 @@ TagManager:
   - Pipe
   - Ground
   - Coin
+  - Column
   layers:
   - Default
   - TransparentFX
@@ -52,4 +53,7 @@ TagManager:
     locked: 0
   - name: ForeGround
     uniqueID: 3351557901
+    locked: 0
+  - name: Canvas
+    uniqueID: 1168913643
     locked: 0
